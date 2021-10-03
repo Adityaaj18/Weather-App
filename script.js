@@ -44,4 +44,4 @@ document.querySelector(".search-bar").addEventListener("keyup", function (e) {
   }
 });
 
-weather.fetchWeather("Mumbai");
+weather.fetchWeather("Kalyan, Thane");
